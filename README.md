@@ -1,9 +1,9 @@
 # ReportRepositories - Releases
 
-**Última Versão:** v1.0.42
-**Data:** 14/10/2026 19:48
+**Última Versão:** v1.0.43
+**Data:** 14/10/2026 19:53
 
-[⬇️ Baixar v1.0.42](https://github.com/gabriel-l96/ReportRepositories-Releases/releases/download/v1.0.42/ReportRepositories_v1.0.42.zip)
+[⬇️ Baixar v1.0.43](https://github.com/gabriel-l96/ReportRepositories-Releases/releases/download/v1.0.43/ReportRepositories_v1.0.43.zip)
 
 ## 🚀 Instalação Rápida
 1. Baixe o ZIP e extraia
