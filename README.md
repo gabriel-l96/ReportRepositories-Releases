@@ -4,10 +4,10 @@ Plataforma centralizada para monitoramento de serviços fiscais (SEFAZ), replica
 
 ---
 
-**Última Versão:** \1.0.49\  
-**Data de Publicação:** 06/11/2026 12:53  
+**Última Versão:** \1.0.50\  
+**Data de Publicação:** 06/11/2026 13:21  
 
-[⬇️ Baixar Pacote Completo (v1.0.49)](https://github.com/gabriel-l96/ReportRepositories-Releases/releases/download/v1.0.49/ReportRepositories_v1.0.49.zip) · [📋 Histórico de Versões](https://github.com/gabriel-l96/ReportRepositories-Releases/releases)
+[⬇️ Baixar Pacote Completo (v1.0.50)](https://github.com/gabriel-l96/ReportRepositories-Releases/releases/download/v1.0.50/ReportRepositories_v1.0.50.zip) · [📋 Histórico de Versões](https://github.com/gabriel-l96/ReportRepositories-Releases/releases)
 
 ---
 
@@ -59,7 +59,7 @@ Plataforma centralizada para monitoramento de serviços fiscais (SEFAZ), replica
 ---
 
 ## 🛠️ Instalação Rápida
-1. Baixe o pacote \ReportRepositories_v1.0.49.zip\ e extraia na máquina de destino.
+1. Baixe o pacote \ReportRepositories_v1.0.50.zip\ e extraia na máquina de destino.
 2. Execute \scripts\instalar.bat\ como **Administrador**.
 3. Ajuste as conexões e chaves nos arquivos:
    - \C:\ReportRepositories\Api\appsettings.Production.json\
